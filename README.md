@@ -8,11 +8,11 @@
 ## Usage
 
 ```shell
-npm i @goodlifts/core
+npm i @core
 ```
 
 ```ts
-import { greet } from "@goodlifts/core";
+import { greet } from "@core";
 
 greet("Hello, world! 💖");
 ```
